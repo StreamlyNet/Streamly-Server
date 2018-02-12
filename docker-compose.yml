@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  server:
+    image: openbazaar/server
+    ports:
+      - 4001
+      - 4002
+      - 9005
+    volumes:
+      - obdata:/var/lib/openbazaar
+
+volumes:
+  obdata:

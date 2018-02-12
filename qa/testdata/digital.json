@@ -1,0 +1,48 @@
+{
+	"slug": "",
+	"metadata": {
+		"version": 1,
+		"contractType": "DIGITAL_GOOD",
+		"format": "FIXED_PRICE",
+		"expiry": "2030-08-17T04:52:19.000Z",
+		"pricingCurrency": "tbtc"
+	},
+	"item": {
+		"title": "Citizenfour",
+		"description": "A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.",
+		"processingTime": "1 confirmation",
+		"price": 12000000,
+		"tags": [
+			"documentary"
+		],
+		"images": [
+			{
+				"tiny": "zb2rhjqhgN4Pv1SJFNpCQMjv2h8PQEGqAioMhkZjkKDyPW5E2",
+				"small": "zb2rhXn3SHBuEXkHxrupGfjKcuMewMdUJyN6jLMYDEzCyue15",
+				"medium": "zb2rhcdaKnikBPyNT83ngqnkaAuunqCR7craN34iNKJruXhDF",
+				"large": "zb2rhbQY5U167P6jic6c7UZ1x6AXXcmrhfcKKeNbJdwGJxXJi",
+				"original": "zb2rhdTuwSdUe3DP9KuHjiwhoM5ppb6ws4i6j2rWFF3yTTP92",
+				"filename": "citizenfour.jpg"
+			}
+		],
+		"categories": [
+			"movies"
+		],
+		"condition": "New",
+		"skus": [
+		]
+	},
+	"taxes": [
+	{
+		"taxType": "Sales tax",
+		"taxRegions": [
+			"UNITED_STATES"
+		],
+		"taxShipping": false,
+		"percentage": 7
+	}
+	],
+	"moderators": [],
+	"termsAndConditions": "NA",
+	"refundPolicy": "No refuns for you. All sales are final."
+}
